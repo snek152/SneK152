@@ -1,4 +1,4 @@
-![Snehil Kakani](https://snek152.github.io/images/Snehil%20Kakani.png)
+![Snehil Kakani](./Snehil%20Kakani.png)
 
 <hr>
 
