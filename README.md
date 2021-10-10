@@ -30,6 +30,23 @@
 
 <hr>
 
+```javascript
+const snehil = {
+  pronouns: "he" | "him",
+  website: "snehilkakani.com",
+  skills: {
+    backend: ["nodejs", "express", "python", "mongodb", "mysql"],
+    frontend: ["javascript", "reactjs", "vuejs", "sass", "webpack", "jquery", "bootstrap"],
+    other: ["java", "git"],
+    design: ["canva", "figma"],
+    music: ["drums", "garageband", "piano", "clarinet"],
+  }, 
+  learning: ["typescript", "angularjs", "firebase", "tailwind", "flutter", "react-native"],
+  hobbies: ["playing drums", "web dev", "playing video games"],
+}
+
+console.log("Currently working on my website.")
+```
 <details open>
   <summary><strong>Skills</strong></summary>
   <br>
