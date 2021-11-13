@@ -31,13 +31,13 @@
 <hr>
 
 ```javascript
-const snehil = {
+const Snehil.main = {
   pronouns: "he" | "him",
-  website: "snehilkakani.com",
+  website: "snehilkakani.me",
   skills: {
     backend: ["nodejs", "express", "python", "mongodb", "mysql"],
     frontend: ["javascript", "reactjs", "vuejs", "sass", "webpack", "jquery", "bootstrap"],
-    other: ["java", "git"],
+    other: ["python","java", "git"],
     design: ["canva", "figma"],
     music: ["drums", "garageband", "piano", "clarinet"],
   }, 
@@ -45,7 +45,16 @@ const snehil = {
   hobbies: ["playing drums", "web dev", "playing video games"],
 }
 
-console.log("Currently working on my website.")
+console.log("Currently working on my latest project!")
+```
+
+```java
+public class Snehil.projects {
+  public static String[] projects() {
+    String[] myprojects = {"calculator.snehilkakani.me", "swordselection.snehilkakani.me"};
+    return myprojects;
+  }
+}
 ```
 <details open>
   <summary><strong>Skills</strong></summary>
