@@ -1,4 +1,4 @@
-![Snehil Kakani](./Snehil%20Kakani.png)
+![Snehil Kakani](./Snehil%20Kakani.webp)
 
 <hr>
 
@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://www.facebook.com/profile.php?id=100069291711436">
+<a href="https://www.facebook.com/snehilkakani">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 
@@ -31,35 +31,41 @@
 <hr>
 
 ```javascript
-const Snehil.main = {
-  pronouns: "he" | "him",
+const snehil = {
+  pronouns: "he" || "him",
   website: "snehilkakani.me",
   skills: {
-    backend: ["nodejs", "express", "python", "mongodb", "mysql"],
-    frontend: ["javascript", "reactjs", "vuejs", "sass", "webpack", "jquery", "bootstrap"],
-    other: ["python","java", "git"],
+    backend: ["nodejs", "express", "python", "mongodb", "mysql", "firebase"],
+    frontend: ["javascript", "react", "vue", "tailwindcss", "sass", "webpack", "jquery", "bootstrap", "next.js"],
+    other: ["python", "java", "git"],
     design: ["canva", "figma"],
     music: ["drums", "garageband", "piano", "clarinet"],
   }, 
-  learning: ["typescript", "angularjs", "firebase", "tailwind", "flutter", "react-native"],
+  learning: ["typescript", "angular", "flutter", "react-native"],
   hobbies: ["playing drums", "web dev", "playing video games"],
 }
-
-console.log("Currently working on my latest project!")
+export default snehil
+console.log("Currently working on my science fair project!")
 ```
 
-```java
-public class Snehil.projects {
-  public static String[] projects() {
-    String[] myprojects = {"calculator.snehilkakani.me", "swordselection.snehilkakani.me"};
-    return myprojects;
+```py
+def snehilProjects():
+  return {
+    "the steam force": "an open source initiative to provide accessible and interactive education for underprivileged kids",
+    "web calculator": "calculator built in react and tailwind. calculator.snehilkakani.me",
+    "sword selection": "mod for minecraft that adds different kinds of swords to the game. swordselection.snehilkakani.me",
+    "georepair": "open source project developed at youngwonks that is a geotagging app used to scan public objects in need of repair"
   }
-}
+print(snehilProjects())
 ```
+
 <details open>
   <summary><strong>Skills</strong></summary>
   <br>
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -70,10 +76,6 @@ public class Snehil.projects {
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" />
-  <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" />
-  <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
 </details>
