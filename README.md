@@ -25,8 +25,9 @@
 <br />
 <br />
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=snek152&layout=compact)
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=snek152&show_icons=true&hide=stars,issues)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=snek152&layout=compact&theme=react)
+<br />
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=snek152&show_icons=true&hide=stars,issues&theme=react)
 
 <hr>
 
