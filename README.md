@@ -2,7 +2,7 @@
 
 <hr>
 
-### Hi, I'm Snehil Kakani, a full stack web developer, functional programmer, and graphic designer.
+### Hi, I'm Snehil Kakani, a web developer, musician, and actor. For more info about me, check out [snehilkakani.me](https://snehilkakani.me)
 
 <br />
 
@@ -36,11 +36,11 @@ export const snehil = {
   pronouns: "he" || "him",
   website: "snehilkakani.me",
   skills: {
-    backend: ["nodejs", "express", "python", "mongodb", "mysql", "firebase"],
-    frontend: ["typescript", "react", "next.js", "vue.js", "tailwindcss", "sass", "webpack", "jquery", "bootstrap",],
+    backend: ["nodejs", "express", "mongodb", "sql", "firebase", "flask", "fastapi"],
+    frontend: ["typescript", "react", "next.js", "vue.js", "tailwindcss", "sass", "webpack", "jquery", "bootstrap", "svelte"],
     other: ["python", "java", "git"],
     design: ["canva", "figma"],
-    music: ["drums", "garageband", "piano", "clarinet"],
+    music: ["drums", "garageband", "piano", "clarinet", "percussion"],
   }, 
   learning: ["angular", "flutter", "react-native"],
   hobbies: ["playing drums", "acting", "web dev", "playing video games"],
