@@ -40,16 +40,9 @@ export const snehil = {
     frontend: ["typescript", "react", "next.js", "vue.js", "tailwindcss", "sass", "webpack", "jquery", "bootstrap", "svelte"],
     other: ["python", "java", "git"],
     design: ["canva", "figma"],
-    music: ["drums", "garageband", "piano", "clarinet", "percussion"],
+    music: ["drums", "logic pro", "piano", "clarinet", "percussion", "music production"],
   }, 
   learning: ["angular", "flutter", "react-native"],
-  hobbies: ["playing drums", "acting", "web dev", "playing video games"],
+  hobbies: ["playing drums", "producing hip-hop beats", "acting", "playing video games"],
 }
 ```
-
-
-#### My hobbies include
-- Playing the drums
-- Acting in school plays
-- Coding for fun!
-- Video gaming :D
